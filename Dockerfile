@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jre
+FROM airdock/oracle-jdk:jdk-1.8
 MAINTAINER Atlassian Confluence
 
 # Setup useful environment variables
